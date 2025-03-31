@@ -3,4 +3,7 @@
 # kurs_jeemicro_training_matierials
 kurs_jeemicro_training_matierials public
 
+See this project for example Source-Code https://github.com/CGS-IT/jee_microservices_training_2025
+
+
 @2025 CGS IT Solutions GmbH
